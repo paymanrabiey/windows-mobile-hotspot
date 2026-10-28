@@ -67,6 +67,7 @@ PowerShell با دسترسی به System.Runtime.WindowsRuntime.
 ۲. PowerShell را باز کنید.
 
 C:\ .\enable-wifi.ps1
+
 ۳. اسکریپت را اجرا کنید.
 
 ۴. نتیجه عملیات و وضعیت نهایی هات‌اسپات را بررسی کنید.
