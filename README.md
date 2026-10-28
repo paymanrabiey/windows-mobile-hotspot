@@ -65,6 +65,7 @@ PowerShell با دسترسی به System.Runtime.WindowsRuntime.
 ۱. فایل enable-wifi.ps1 را دریافت کنید.
 
 ۲. PowerShell را باز کنید.
+
 C:\ .\enable-wifi.ps1
 ۳. اسکریپت را اجرا کنید.
 
