@@ -22,7 +22,7 @@ Run `enable-wifi.ps1` in PowerShell.
 
 The script reports whether the tethering operation succeeded. A successful result does not guarantee that connected devices will receive an IP address or have internet access.
 
-C:\.\enable-wifi.ps1
+C:\ .\enable-wifi.ps1
 
 ## Compatibility Notes
 
